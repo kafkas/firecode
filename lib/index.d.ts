@@ -1,0 +1,1 @@
+export declare function todo<T>(t: T): T;
